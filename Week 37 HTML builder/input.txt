@@ -1,0 +1,3 @@
+Inputs
+BULLET POINTS:firstpoint, Second, third
+NUMBER LIST:firstpoint, second, third
