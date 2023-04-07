@@ -33,3 +33,5 @@ if numberpoints != ['']:
 
 html.write("</body></html>")
 html.close()
+print("HTML file created")
+
